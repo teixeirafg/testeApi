@@ -6,4 +6,4 @@
  - baixar as gems (Rspec, HTTParty e Cucumber)
  
  Tendo feito os steps acima, basta executar a seguinte linha de comando para rodar os teste:
- - cucumber features/valida_cep.feature
+ - cucumber 
